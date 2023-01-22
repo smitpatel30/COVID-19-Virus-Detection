@@ -1,0 +1,16 @@
+1.X-ray images.
+-> You can get X-ray images of both COVID and NON-COVID Patients on Kaggle Dataset.
+-> Just go to google and  search for "kaggle"
+-> After entering into Kaggle,search for COVID-19 X-ray Dataset.
+
+2. Machine for training,testing and getting frozen file of the model
+-> You need to have a good machine for training and testing of this model.
+-> I had  used GOOGLE COLAB. If your Machine has good computational power and high GPU,then you can train this model in your laptop or computer
+   using any suitable python IDE.
+
+2.Raspberry Pi-4B
+-> You need to have Raspberry Pi-4B Hardware for the deployment of this image classfication model.
+-> Also,you need to install required libraries like CV2,Numpy,Tensorflow 2.0,and Rpi.GPIO
+
+3.LEDS
+-> You need to have two LEDS for indicating signals for postive or negative status.
